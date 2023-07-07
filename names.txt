@@ -8,3 +8,10 @@ srikanth
 team vagile
 venkat
 ram
+
+
+devops
+linux
+git
+maven
+jenkins
