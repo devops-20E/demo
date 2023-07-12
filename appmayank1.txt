@@ -1,1 +1,2 @@
-s sis file to commit and relase for tag purposes
+this is file to commit and relase for tag purposes
+# corrected the code
