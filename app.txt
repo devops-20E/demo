@@ -9,4 +9,9 @@ hotfix are done and ready for release
 =======
 
 we are working on some features on app
+<<<<<<< HEAD
 >>>>>>> 6f12943 (woeking on features)
+=======
+
+features are ready to be released on to main branch
+>>>>>>> aab4460 (features are ready)
