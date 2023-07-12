@@ -2,6 +2,11 @@ creating an app for the client
 
 the app is ready to be released 
 
+<<<<<<< HEAD
 some hotfix are done on this commit
 
 hotfix are done and ready for release
+=======
+
+we are working on some features on app
+>>>>>>> 6f12943 (woeking on features)
