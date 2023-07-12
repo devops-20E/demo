@@ -1,1 +1,1 @@
-this is the second release of the application with version 
+creating an app for the client
