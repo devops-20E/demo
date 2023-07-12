@@ -1,3 +1,5 @@
 creating an app for the client
 
 the app is ready to be released 
+
+some hotfix are done on this commit
