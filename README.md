@@ -3,4 +3,4 @@ Testing AP
 this is from develop branch
 
 
-testing for poll scm
+testing pollSCM in pipeline
