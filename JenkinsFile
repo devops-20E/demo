@@ -1,0 +1,22 @@
+pipeline {
+    agent any
+
+
+    stages {
+        stage('github') {
+            steps {
+                // Get some code from a GitHub repository
+                checkout scmGit(branches: [[name: '*/main']], extensions: [], userRemoteConfigs: [[url: 'https://github.com/rajudevops1543/mvn.git']])
+            }
+        }
+            
+             stage('maven') {
+            steps {
+                
+                bat "mvn -version"
+
+                
+            }
+             }        
+    }
+}
